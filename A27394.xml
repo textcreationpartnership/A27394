@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moses's charge to Israel's judges opened in an assise sermon preached at Salisbury, Feb. 27, 1680, before the Right Honourable Sr. Thomas Jones ... / by John Bennion ...</title>
+            <author>Bennion, John, b. 1650 or 1.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27394</idno>
+            <idno type="STC">Wing B1890</idno>
+            <idno type="STC">ESTC R20777</idno>
+            <idno type="EEBO-CITATION">12176848</idno>
+            <idno type="OCLC">ocm 12176848</idno>
+            <idno type="VID">55552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55552)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 857:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moses's charge to Israel's judges opened in an assise sermon preached at Salisbury, Feb. 27, 1680, before the Right Honourable Sr. Thomas Jones ... / by John Bennion ...</title>
+                  <author>Bennion, John, b. 1650 or 1.</author>
+               </titleStmt>
+               <extent>[6], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>And are to be sold by Francis Dollif ...,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Deuteronomy I, 16-17 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:55552:1"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>April.</hi> 11. 1681.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>TIMO. HALTON Vice-Cancel. <hi>OXON.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:55552:1"/>
+            <p>Moſes's Charge to Iſrael's Judges, <hi>Opened in an Aſsiſe</hi> SERMON Preached at Salisbury, <hi>Feb.</hi> 27. 1680.</p>
+            <p>Before the Right Honourable S<hi rend="sup">r</hi> 
+               <hi>THOMAS JONES</hi> Judge of Aſsiſe.</p>
+            <p>By <hi>JOHN BENNION</hi> M. A.</p>
+            <p>Vicar of Malmesbury in <hi>Wiltſhire.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Command of Mr. High Sherif.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>
+                  <hi>Ariſt. Eth. l.</hi> 5. <hi>cap.</hi> 3.</bibl>
+            </q>
+            <p>Printed at <hi>Oxford,</hi> and are to be ſold by FRANCIS DOLLIF, Bookſeller near the <hi>Mare-Maid Tavern. Anno Dom.</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:55552:2"/>
+            <pb facs="tcp:55552:2"/>
+            <head>
+               <hi>TO THE</hi> Right Worſhipfull. <hi>THOMAS GORE</hi> of ALDRINGTON Eſquire, <hi>HIGH SHERIF OF THE</hi> CO<g ref="char:V">Ʋ</g>NTY of WILTS.</head>
+            <p>HAD this <hi>Epiſtolar</hi> Addreſs, and the <hi>Publiſh<g ref="char:EOLhyphen"/>ing</hi> of this Sermon it <hi>Prefaceth,</hi> been Matter of mine own free <hi>Choice;</hi> I might juſtly have faln under the Cenſure of <hi>Libelling</hi> ſo <hi>great</hi> a Judgment as <hi>yours.</hi> But when You were pleas'd firſt to ſummon ſo <hi>young</hi> and <hi>weak</hi> a Miniſter, as my ſelf, on ſo <hi>ſolemn</hi> an Occaſion to the <hi>Pulpit;</hi> and then to command ſo <hi>poor</hi> a Performance, as this of mine, to the <hi>Preſs;</hi> I am no farther concern'd, than in two ſuch high Proofs of my <hi>Obedience.</hi>
+            </p>
+            <pb facs="tcp:55552:3"/>
+            <p> But you, Sir, who have ſo determin'd this <hi>Dedica<g ref="char:EOLhyphen"/>tion</hi> upon <hi>your Self,</hi> are thereby as well oblig'd to the <hi>Defence</hi> of your own <hi>Reputation,</hi> how well ſoever other<g ref="char:EOLhyphen"/>wiſe eſtabliſht; as to the <hi>Patronage</hi> of this Sermon, now made <hi>Publique,</hi> againſt ſuch <hi>Variety</hi> of <hi>Cenſure</hi> as 'tis like enough to meet withal, in this our <hi>Cenſorious</hi> Age. As either</p>
+            <p>Firſt for the <hi>Plainneſs</hi> of the Style; tho a plain Dreſs best become the <hi>Natural</hi> Beauty of all Truth in <hi>general;</hi> and more <hi>eſpecially</hi> ſuch <hi>Practical</hi> Truth, as is the Sub<g ref="char:EOLhyphen"/>ject Matter of this <hi>Diſcourſe.</hi> Or</p>
+            <p>Secondly the <hi>Shortneſs</hi> of the Sermon: Not conſider<g ref="char:EOLhyphen"/>ing, it was a <hi>Word</hi> to the <hi>Wiſe;</hi> and that a <hi>ſhort</hi> word to ſuch is <hi>ſufficient;</hi> eſpecially in <hi>ſuch</hi> Matters, whereabout their Wiſdom is not only moſt <hi>principally,</hi> but moſt <hi>familiarly</hi> alſo converſant: Otherwiſe there's ſcarcely any one <hi>Branch</hi> of my Text, that would not have ſupplyed a no very <hi>fruitful</hi> Invention, with <hi>abundant</hi> Matter, for a <hi>more</hi> Copious Diſcourſe than this of mine, upon the <hi>whole</hi> of it. Theſe two <hi>Objections,</hi> together with a third, anſwer'd in the <hi>Cloſe</hi> of my <hi>Sermon,</hi> might be made by no ill meaning <hi>Friends:</hi>
+            </p>
+            <p>There's yet a fourth to be expected from our worſt mean<g ref="char:EOLhyphen"/>ing <hi>Enemies;</hi> or ſome <hi>Advocates</hi> for them, whoſe <hi>Eies</hi> directed to, ſpeak their <hi>Hearts</hi> alſo ſet towards their
+<pb facs="tcp:55552:3"/> 
+               <hi>Tents,</hi> as ready to run over to them: Namely, that I am too ſevere against <hi>Papiſts,</hi> and Popiſh <hi>Prieſts.</hi>
+            </p>
+            <p>Now to <hi>this</hi> Objection, which hath leaſt of Reaſon, and moſt of Danger in it, I ſhall not (for that Cauſe) go a<g ref="char:EOLhyphen"/>bout to make any Defence of mine own; but here more e<g ref="char:EOLhyphen"/>ſpecially pray in your <hi>Patronage</hi> and <hi>Protection,</hi> accord<g ref="char:EOLhyphen"/>ing to your <hi>Office; his</hi> whom you repreſent, the <hi>King's Majeſtie's,</hi> according to his <hi>Laws;</hi> and <hi>above</hi> all, the <hi>higheſt</hi> Defence of all, even that of <hi>God</hi> himſelf, accord<g ref="char:EOLhyphen"/>ing to his all wiſe and Powerful <hi>Providence,</hi> againſt both the Makers of the Objection, and thoſe in whoſe behalf it is made: and this laſt Preſervation, not for my ſelf alone, but alſo, and much more, for our <hi>King</hi> againſt their va<g ref="char:EOLhyphen"/>rious ways of <hi>Aſſaſſinations;</hi> for our <hi>Church</hi> againſt their manifold <hi>Idolatries,</hi> and <hi>Superſtitions;</hi> and for our <hi>State</hi> againſt all their Helliſh <hi>Plots,</hi> and <hi>Machina<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p>And, as for means conducing to theſe Ends, I yet far<g ref="char:EOLhyphen"/>ther pray, that the <hi>King</hi> may want no ſuch <hi>Subjects,</hi> the <hi>Church</hi> no ſuch ſons, this <hi>Country</hi> no ſuch <hi>Friends,</hi> and the whole <hi>Kingdom</hi> no ſuch <hi>Magiſtrates,</hi> as your Learned and Worthy <hi>Self:</hi> the King no Subjects ſo truly <hi>Loyal,</hi> the Church no Sons ſo truly <hi>Obedient;</hi> this Country no Friends ſo every way <hi>faithful,</hi> and the whole Kingdom no Magiſtrates ſo altogether <hi>unbiaſs'd</hi> and <hi>in<g ref="char:EOLhyphen"/>capable</hi>
+               <pb facs="tcp:55552:4"/> of Corruption. Men of the right old <hi>Engliſh</hi> make, and Proteſtant ſpirit, Couragious, <g ref="char:V">Ʋ</g>ndaunted, bravely bearing up againſt and ſtemming the tide of all oppoſition from <hi>Rome</hi> and <hi>France.</hi> This is and ſhall be the Conſtant tenor in the fervent Prayers of</p>
+            <closer>
+               <salute>RIGHT WORSHIPFUL,</salute>
+               <signed>Your moſt Humble Servant and Dutifull Chaplain <hi>JOHN BENNION.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:55552:4"/>
+            <epigraph>
+               <bibl>
+                  <hi>Deut.</hi> 1. 16. and part of the 17. <hi>verſe.</hi>
+               </bibl>
+               <q>16. <hi>And I charged your Judges at that time, ſaying; Hear the Cauſes between your Brethren, and judge righteouſly between every man and his brother, and the ſtranger that is with him.</hi>
+               </q>
+               <q>17. <hi>Ye ſhall not reſpect Perſons in Judgment, but you ſhall hear the ſmall as well as the great; you ſhall not be afraid of the face of man, for the Judgment is Gods.</hi>
+               </q>
+            </epigraph>
+            <p>VVHEN <hi>Moſes</hi> (the ſole <hi>Judge</hi> of <hi>Iſrael)</hi> found the Suits and Controverſies of the People to grow up and multiply, as their numbers did; he ſoon felt the weight of his Office a burthen too heavy for the ſhoulders of a ſingle perſon to bear, <hi>verſe</hi> 10. 12. <hi>The Lord your God hath multiplyed you; and behold, you are this day as the ſtars of heaven for multitude. How can I my ſelf alone bear your cumbrance and your burthen and your ſtrife?</hi> He therefore counſels them to make choice of other ſub<g ref="char:EOLhyphen"/>ordinate Rulers and Judges; that might be as helpfull to him, ſo uſefull to them; and withall adviſeth what manner of perſons to chooſe; <hi>men that were Wiſe, and <g ref="char:V">Ʋ</g>nderſtanding, and Known among their Tribes,</hi>
+               <pb n="2" facs="tcp:55552:5"/> 
+               <hi>v.</hi> 13. The Iſraelites approv'd the motion, and ſaid; <hi>the thing, which thou haſt ſaid, is good for us to doe. v.</hi> 14. And they followd his advice; chooſe<g ref="char:EOLhyphen"/>ing Perſons of that <hi>Character</hi> he had recommended to them; and when they had ſo done, they brought them to <hi>Moſes,</hi> who did two things:</p>
+            <p>Firſt he inſtall'd them in their <hi>Office, v.</hi> 15. <hi>So I took the Chief of your Tribes, Wiſe men, and Known, and made them Heads over you.</hi>
+            </p>
+            <p>Secondly he gave them their <hi>Charge</hi> in the words of my Text. <hi>I charged your Judges at that time, ſay<g ref="char:EOLhyphen"/>ing; Hear the Cauſes between your Brethren, and judge righteouſly between every Man and his Brother, and the Stranger that is with him.</hi>
+            </p>
+            <p>
+               <hi>Ye ſhall not Reſpect Perſons in judgment, but you ſhall hear the ſmall as well as the great; you ſhall not be afraid of the face of Man, for the judgement is God's.</hi> In which words and in the Context before, You are to take notice of</p>
+            <p n="1">1. The <hi>Perſon Charging,</hi> and that was <hi>Moſes,</hi> who at that time was the onely <hi>Ruler</hi> and <hi>Judge</hi> of the <hi>Iſraelites.</hi>
+            </p>
+            <p n="2">2. The <hi>Perſons Charged,</hi> and they are deſcrib'd
+<list>
+                  <item>Firſt by their <hi>Office, Judges.</hi>
+                  </item>
+                  <item>Secondly by their <hi>Relation, Your</hi> Judges.</item>
+                  <pb n="3" facs="tcp:55552:5"/>
+                  <item> Thirdly by their <hi>Qualities</hi>
+                     <list>
+                        <item>Wiſe
+<list>
+                              <item>Men.</item>
+                           </list>
+                        </item>
+                        <item>
+                           <g ref="char:V">Ʋ</g>nderſtanding</item>
+                        <item>Known</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <list>
+               <item>3. The <hi>Matter</hi> of the Charge, ſet down both
+<list>
+                     <item>1. <hi>Affirmatively.</hi>
+                     </item>
+                     <item>2. <hi>Negatively.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <item>1. <hi>Affirmatively</hi>
+                  <list>
+                     <item>1. <hi>Hear; Objectum</hi>
+                        <list>
+                           <item>
+                              <hi>Quod,</hi> the <hi>Cauſe.</hi>
+                           </item>
+                           <item>
+                              <hi>Cui,</hi> your <hi>Bro<g ref="char:EOLhyphen"/>ther's</hi> cauſe.</item>
+                        </list>
+                     </item>
+                     <item>2. <hi>Judge;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>And this judgment muſt be</p>
+            <p>Firſt for the <hi>Quality, Righteous.</hi>
+            </p>
+            <p>Secondly for the <hi>Quantity</hi> or <hi>Extent</hi> of it, <hi>between every man and his Brother, and the ſtranger that is with him.</hi>
+            </p>
+            <list>
+               <item>2. <hi>Negatively</hi>
+                  <list>
+                     <item>1. <hi>Not reſpect Perſons.</hi>
+                     </item>
+                     <item>2. <hi>Not be afraid of the face of man.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>And the Reaſon both of the one, and the other, follows in the next words: <hi>For the Judgment is God's.</hi>
+            </p>
+            <p n="1">1. In the <hi>Affirmative</hi> part of the <hi>Charge</hi> the firſt <hi>duty</hi> enjoyn'd the <hi>Judges</hi> is to <hi>hear the Cauſe.</hi> And by <hi>hearing</hi> is to be underſtood a <hi>diligent</hi> and <hi>circumſpect</hi> attention to the buſineſs in hand, to all <hi>Perſons</hi> and
+<pb n="4" facs="tcp:55552:6"/> 
+               <hi>Things;</hi> all <hi>Circumſtances</hi> and <hi>Evidences,</hi> that may make the <hi>ſtate</hi> of the Cauſe to appear; which is far<g ref="char:EOLhyphen"/>ther explain'd Deut. 19. 18. <hi>The Judges ſhall make di<g ref="char:EOLhyphen"/>ligent inquiſition &amp;c.</hi> like ſome skilfull and wiſe Phy<g ref="char:EOLhyphen"/>ſitian, who firſt of all feels the <hi>Pulſe</hi> of his Patient; then conſiders his <hi>Age,</hi> and the <hi>Conſtitution</hi> of his <hi>Body;</hi> is inquiſitive after the <hi>time</hi> when, and the <hi>man<g ref="char:EOLhyphen"/>ner</hi> how, the <hi>Diſeaſe</hi> firſt begun; what <hi>alterations</hi> it hath ſince made; what <hi>Paroxyſms,</hi> or <hi>Fits,</hi> it now hath; when they <hi>come,</hi> and how long they <hi>hold</hi> him: with theſe, and ſuch like Queries he endeavours every way to be fully inform'd of the true ſtate of his <hi>Pa<g ref="char:EOLhyphen"/>tients</hi> Body, before he will (or indeed can) preſcribe a <hi>Remedy.</hi> So the juſt Magiſtrate, in matters <hi>Criminal</hi> does not pronounce <hi>Sentence;</hi> nor in matters <hi>Civil,</hi> give his <hi>Determination;</hi> till he has firſt duly conſider'd of the <hi>Action</hi> and the <hi>Circumſtances</hi> it is cloth'd with, throughly examined <hi>Witneſſes,</hi> ſcan'd and compar'd <hi>Evidences,</hi> and us'd all other expediencies to come to the clear knowledge of the truth; which he can never do, till he has firſt with equal patience heard <hi>both Par<g ref="char:EOLhyphen"/>ties</hi> ſpeak. For <hi>he that is first in his own cauſe, ſeemeth juſt, but his neighbour cometh and ſearcheth him, Pro.</hi> 18. 17. A diligent <hi>Diſquiſition</hi> of the <hi>Cauſe,</hi> and a mature <hi>Deliberation</hi> thereupon, is therefore neceſſary in mat<g ref="char:EOLhyphen"/>ters
+<pb n="5" facs="tcp:55552:6"/> of <hi>Judicature</hi> 
+               <note n="a" place="margin">
+                  <hi>Lib.</hi> 2. <hi>Cap.</hi> 23.</note> 
+               <hi>Cunctari judicantem decet, imo oportet,</hi> ſaid <hi>Seneca</hi> the <hi>Philoſopher:</hi> and <note n="b" place="margin">
+                  <hi>Sen. <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Act.</hi> 2. <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </note> 
+               <hi>Seneca</hi> the <hi>Tragedian</hi> lays down the like Poſition, <hi>Qui ſtatuit ali<g ref="char:EOLhyphen"/>quid parte inaudita altera, aequum licet ſtatuerit, haud aequus fuit.</hi> He that <hi>Determines</hi> a Caſe at-all-adven<g ref="char:EOLhyphen"/>tures, tho perhaps he ſhould <hi>ſtumble</hi> upon <hi>Juſtice,</hi> yet he is himſelf <hi>unjust;</hi> and that becauſe he ſhould hear both ſides ſpeak before he determines. Even the poor and illiterate Man's Tale is to be heard in his own Dialect, as well as his who can ſet it off in a bet<g ref="char:EOLhyphen"/>ter Dreſs: And there be two expreſſions in the <hi>Text,</hi> that afford us a double <hi>Medium</hi> or <hi>Argument</hi> to preſs this duty.</p>
+            <list>
+               <item>The one lyes in this Your Judges.</item>
+               <item>The other lyes in this The Cauſe of your Brethren.</item>
+            </list>
+            <p>To begin with the firſt of theſe, <hi>I charged your Judges to hear,</hi> from whence it will naturally follow that <hi>Judges</hi> and <hi>Magistrates</hi> were <note n="c" place="margin">Non ſed Popul Adrianus <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ari<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Epiſt. ad <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> not ſo much ordain'd for their <hi>Own</hi> ſakes, as for the <hi>Peoples;</hi> not ſo much to <hi>Domineer</hi> and <hi>Lord</hi> it over them, as to <hi>Succour</hi> and <hi>Defend</hi> them.</p>
+            <p>
+               <note n="d" place="margin">Senec<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Medea <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Scen. prae<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> 
+               <hi>Hoc Reges habent magnificum &amp; ingens</hi> &amp;c.</p>
+            <p>
+               <hi>Prodeſſe miſeris, Supplices fido Lare Protegere.</hi> The Grandeur of <hi>Kings</hi> and <hi>Magiſtrates</hi> conſiſteth in this, that they have <hi>power</hi> to <hi>help</hi> thoſe who are not able to <hi>help themſelves.</hi> Nay, it is for this very reaſon, that they
+<pb n="6" facs="tcp:55552:7"/> are ſtyl'd <hi>Gods;</hi> and that by <hi>God</hi> himſelf, who gave them this <hi>power;</hi> and has imprinted in the very <hi>natu<g ref="char:EOLhyphen"/>ral</hi> Conſcience of every man <hi>Notions</hi> of Fear and Honour, Subjection and Contribution to be given to Kings and other <hi>Magiſtrates</hi> and <hi>Superiors;</hi> and that <hi>not only for wrath, but for conſcience ſake.</hi> Yet (as the Learned <hi rend="sup">e</hi> 
+               <hi>Biſhop Sanderſon</hi> well obſerves) <q>the ſame <note place="margin">Serm. ad <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tratum.</note> Conſcience which bindeth us who are under Au<g ref="char:EOLhyphen"/>thority to the performance; bindeth you who are in Authority to the requital of theſe duties, I ſay the ſame conſcience; tho not the ſame wrath: For here is the difference. Both wrath, and Conſcience bind us to our duties; ſo that if we withdraw our ſubje<g ref="char:EOLhyphen"/>ction, we wound our own Conſciences, and incur your juſt wrath: But only Conſcience bindeth you to yours, and not wrath; ſo that if ye withdraw your help we may not uſe wrath, but muſt ſuffer it with patience, and permit all to the judgment, of your own Conſciences, and of God the Judge of all mens Conſciences; but yet ſtil in Conſcience the obligati<g ref="char:EOLhyphen"/>on lieth equally upon you, and Us: As we are bound to give you Honor, ſo are you to give us Safety; as we to fear you, ſo you to help us; as we to fight for you, ſo you to care for us; as we to pay you Tribute, ſo you to do us Right. For for this cauſe pay we tri<g ref="char:EOLhyphen"/>bute
+<pb n="7" facs="tcp:55552:7"/> and other duties to you, who are Gods Mini<g ref="char:EOLhyphen"/>ſters; even becauſe you ought to be attending con<g ref="char:EOLhyphen"/>tinually upon this very thing; to approve your ſelves the Miniſters of God to us for good.</q> So farr that Godly Learned <hi>Biſhop Sanderſon:</hi> which per<g ref="char:EOLhyphen"/>haps had been too much to quote from another, but not from that every way Reverend Author.</p>
+            <p>Well then (My Brethren) if <hi>Magiſtrates</hi> were Or<g ref="char:EOLhyphen"/>dain'd more for <hi>Your</hi> ſakes, than for their <hi>Own;</hi> it will follow; that the <hi>Judge</hi> is the <hi>People's;</hi> and there<g ref="char:EOLhyphen"/>fore his <hi>Eyes</hi> are their's to ſee and obſerve for them; his <hi>Ears</hi> their's to hear for them; he is <hi>choſen</hi> and <hi>ſworne</hi> for them; he Rides their <hi>Circuit,</hi> Sits on their <hi>Bench,</hi> is Guarded and attended by them: All his <hi>Authority, Wiſdome, Learning</hi> and <hi>Experience</hi> in Law-Caſes is for them; tho the <hi>Judge</hi> be indeed the <hi>King's</hi> as to his Delegation to, yet is he the <hi>People's</hi> as to the <hi>Execution</hi> of his <hi>Office;</hi> deriveth his Authority from the <hi>King;</hi> is to mannage it for the King's <hi>Leige</hi> People. And therefore wonder not that We ſo cloſely urge this labor and diligence in Hearing; <hi>I charged your Judges to hear.</hi>
+            </p>
+            <p>But <hi>Secondly,</hi> Another <hi>Argument,</hi> yet farther to inforce this duty, is taken from the <hi>Relation</hi> of the <hi>People</hi> to the <hi>Judges;</hi> they are <hi>Your Brethren:</hi> your
+<pb n="8" facs="tcp:55552:8"/> Brethren by <hi>Nature,</hi> as <hi>Men;</hi> your Brethren in a <hi>Political</hi> Notion, as Members of the ſame Body <hi>Po<g ref="char:EOLhyphen"/>litick;</hi> and your Brethren alſo by <hi>Grace,</hi> as of the ſame <hi>Myſtical</hi> Body; and therefore upon all theſe Conſiderations you are oblig'd to hear them. Thus your Brother's <hi>Liberty</hi> reſtrain'd by unjuſt Impri<g ref="char:EOLhyphen"/>ſonment, his <hi>Name</hi> wounded by Reproches, his <hi>Houſe</hi> broken up, his <hi>Sheep</hi> or his <hi>Oxen</hi> driven away, his <hi>Life</hi> endanger'd &amp;c. doe every of them call for that <hi>Brotherly</hi> Love and Affection from you, which ſhould move you diligently to <hi>Hear</hi> his Cauſe, and ſo to hear it, as to doe him <hi>Juſtice;</hi> which is the <hi>ſe<g ref="char:EOLhyphen"/>cond</hi> duty in the <hi>Charge</hi> given to the <hi>Judges.</hi>
+            </p>
+            <p>2<hi rend="sup">ly</hi> They muſt <hi>judge righteouſly between every Man and his Brother, and the Stranger that is with him.</hi> And this <hi>Righteous Judgement</hi> conſiſteth in the pro<g ref="char:EOLhyphen"/>nouncing of a <hi>Sentence</hi> conformable to <hi>Juſtice,</hi> after the <hi>Cauſe</hi> is fully underſtood: I ſay in pronouncing of a Sentence <hi>conformable</hi> to <hi>Juſtice;</hi> for in every <hi>Cauſe</hi> there is it's Juſtice either on <hi>this</hi> ſide, or <hi>that;</hi> and when the <hi>Judicial Sentence</hi> anſwers the <hi>Juſtice</hi> of the <hi>Cauſe,</hi> then it is Righteous.</p>
+            <p>But as this Judgment for the <hi>Quality</hi> muſt be <hi>Righ<g ref="char:EOLhyphen"/>teous,</hi> ſo for the <hi>Quantity</hi> or <hi>Extent,</hi> it muſt be <hi>be<g ref="char:EOLhyphen"/>tween every Man and his Brother, and the Stranger that</hi>
+               <pb n="9" facs="tcp:55552:8"/> 
+               <hi>is with him.</hi> As therefore the <hi>Apoſtle Paul</hi> ſaid in an<g ref="char:EOLhyphen"/>other caſe, <note n="f" place="margin">1 Cor. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>does God take care for Oxen?</hi> ſo may we ſay in this, does God take Care for <hi>Strangers?</hi> Yes he doth; For he preſerves both <hi>Man</hi> and <hi>Beaſt;</hi> but firſt <hi>Man,</hi> and amongſt Men firſt his own People, then <hi>generally</hi> all, even Strangers too; for though Strangers to you, they are not ſo to him, and his Providence: And as they are a part of his Care, ſo has he made them a part of your's alſo; and that the rather, becauſe Strangers are more liable to Af<g ref="char:EOLhyphen"/>fronts and Abuſes in their <hi>Perſons,</hi> to Injuries and Rapines in their <hi>Eſtates,</hi> than other Men. Theſe are therefore to be defended, and ſhelter'd by you; your Authority and Power is to be exercis'd for, and in the behalf of theſe, ſo long as they behave themſelves juſtly and peaceably in the Land.</p>
+            <p>As our <hi>Love,</hi> and <hi>Pity</hi> muſt not move in too nar<g ref="char:EOLhyphen"/>row a Sphear; ſo neither muſt your <hi>Juſtice,</hi> and <hi>E<g ref="char:EOLhyphen"/>quity:</hi> As to that former the <hi>Apostle</hi> 
+               <note n="g" place="margin">2 Pet. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Peter</hi> ſays, we muſt <hi>add</hi> to our <hi>brotherly kindneſs Charity; Brotherly kindneſs</hi> peculiarly reſpecting the <hi>Brotherhood</hi> of Chri<g ref="char:EOLhyphen"/>ſtians; but <hi>Charity</hi> ſo comprehenſive, as to regard Man <hi>as</hi> Man, and therefore <hi>every</hi> Man: upon which account <hi>Ariſtotle</hi> when reprov'd for beſtowing a Charity upon a <hi>bad</hi> Man, reply'd; that he did not
+<pb n="10" facs="tcp:55552:9"/> therein reſpect <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not the <hi>manners,</hi> but the <hi>Man.</hi> And as to this latter <hi>Moſes</hi> here in ef<g ref="char:EOLhyphen"/>fect ſays, you muſt to <hi>Juſtice</hi> to your <hi>Brethren</hi> add that to <hi>Strangers:</hi> nay Juſtice it <hi>ſelf,</hi> in it's proper <hi>formal</hi> Act, ſays ſo too; that you who have the Admi<g ref="char:EOLhyphen"/>niſtration of it, muſt <hi>ſuum cuique tribuere, diſtribute to every man his due Right,</hi> not only to your Brethren, Neighbours, and Countrymen, but even to the pooreſt honeſt Strangers, if the other would injuri<g ref="char:EOLhyphen"/>ouſly withhold it from them.</p>
+            <p>But there are a ſort of Strangers amongſt us, that your <hi>Justice</hi> and <hi>Judgment</hi> are to be executed <hi>againſt,</hi> and <hi>upon;</hi> and that in the utmoſt Rigor and Severi<g ref="char:EOLhyphen"/>ty, without any <hi>Conſtructio favorabilis</hi> of the Letter of our Law, which (as 'tis ſaid of that of God's) <hi>killeth;</hi> who ought to have Judgment without Mer<g ref="char:EOLhyphen"/>cy, becauſe they would have ſhew'd no Mercy. And theſe are the <hi>Birds</hi> of S<hi rend="sup">t</hi>. <hi>OMERS,</hi> and ſuch like * <hi>Cages of unclean Birds;</hi> unclean Birds I ſay, who <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev. 18. 2.</note> 
+               <hi>have</hi> Defil'd, and Birds of Prey too, who would have Deſtroyed their own Neſt, wherein they were hatcht, and for ſome time bred; who, tho <hi>Native Engliſh</hi> Men, yet have made themſelves firſt <hi>Strangers,</hi> and then <hi>Enemies</hi> both to the <hi>Church</hi> and <hi>State</hi> of <hi>England;</hi> Contriv'd their Subverſion, the Murder of their gra<g ref="char:EOLhyphen"/>cious
+<pb n="11" facs="tcp:55552:9"/> King, and the Ruine of a flouriſhing <hi>Church,</hi> and <hi>Kingdome:</hi> Of ſuch <hi>ſtranger-Emiſſaries</hi> I ſhall ſay no more, but as once the <hi>Jews</hi> did to <hi>Pilate</hi> in ano<g ref="char:EOLhyphen"/>ther Caſe, <note n="h" place="margin">John 1</note> 
+               <hi>If You let theſe Men goe, You are not Caeſar's friend.</hi>
+            </p>
+            <p>There are two <hi>Reaſons</hi> in the Text to be given for this <hi>Righteouſneſs</hi> in Judgment:</p>
+            <p>The Firſt is drawn from the <hi>Solemn</hi> Charge given to the <hi>Judges,</hi> when they are firſt <hi>Inveſted</hi> in their <hi>Office; I took the Chief of your Tribes, Wiſe men and Known, and made them Heads over you; and I charged your Judges at that time to Judge righteouſly:</hi> anſwer<g ref="char:EOLhyphen"/>able to which is that <hi>Charge</hi> of <hi>Jehoſaphat</hi> to his <hi>Judg<g ref="char:EOLhyphen"/>es,</hi> 2 <hi>Chron.</hi> 19. 5, 6, 7. where 'tis ſaid that <hi>he ſet Judges in the Land throughout all the ſenced Cities of Ju<g ref="char:EOLhyphen"/>dah, City by City; and ſaid to the Judges, take heed what ye doe:</hi> (and there is the ſame reaſon for <hi>Circuiting</hi> Judges in Diverſe <hi>Counties</hi> with Us, as there was for <hi>Settl'd</hi> Judges in Particular Cities with Them) <hi>for</hi> (ſaith he) <hi>Ye judge not for man, but for the Lord, who is with you in the judgement; wherefore now let the fear of the Lord be upon you, take heed and doe it: for there is no iniquity with the Lord our God, nor Reſpect of Perſons, nor taking of Gifts.</hi> Nay 'tis well known that every <hi>Judge,</hi> upon his firſt <hi>Installment</hi> into that
+<pb n="12" facs="tcp:55552:10"/> 
+               <hi>Office,</hi> is <hi>Charg'd</hi> by the <hi>Magiſtrate</hi> that is above him, and that with an <hi>Oath,</hi> (another, and yet farther <hi>Bond</hi> upon his <hi>Conſcience)</hi> to doe Righteouſly be<g ref="char:EOLhyphen"/>tween the <hi>King</hi> and his <hi>People:</hi> And therefore ſaies the Righteous and Impartial Judge, <hi>Justice Condemns</hi> this man to die, and if I <hi>Abſolve</hi> him, I <hi>Condemn</hi> my ſelf, I loſe the favor of my God, and the peace of my own Conſcience: Some would <hi>Complement,</hi> o<g ref="char:EOLhyphen"/>thers would <hi>Bribe,</hi> and a third ſort would by their <hi>Threats</hi> affright me into Perjury; but I muſt not, I will not doe it; For the <hi>Vows</hi> of my God, and the <hi>Truſt</hi> of my <hi>King</hi> are upon me: The Conſideration of which makes him Charge through all difficulties, all Temptations, how great, how ſweet ſoever, to the Diſcharge of his Duty; As the Souldiers of <hi>Saul</hi> did, who had ſworn <hi>they would not Eat, till their Maſter was avenged of his Enemies;</hi> and tho they ſaw <hi>honey</hi> upon the Ground, (could have had it for ſtoop<g ref="char:EOLhyphen"/>ing) yet they would not ſo much as taſte, <hi>becauſe they feared their Oath,</hi> 1 <hi>Sam.</hi> 14. 24, 25, 26.</p>
+            <p>The <hi>Second</hi> reaſon is drawn from the <hi>Order</hi> of the Charge; you ſhall <hi>first</hi> Hear, and <hi>then</hi> Judge. <hi>i. e.</hi> All your Diligence and Exactneſs in inquiring into the matter before you, in putting Queſtions, Scan<g ref="char:EOLhyphen"/>ning and comparing Evidences, is in order only un<g ref="char:EOLhyphen"/>to
+<pb n="13" facs="tcp:55552:10"/> this very thing, that you may thereupon proceed unto a Righteous Judgement. For by the <hi>Ear</hi> the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> of the Judge is inform'd where the Juſtice of the cauſe lies; and the Underſtanding di<g ref="char:EOLhyphen"/>rects the <hi>Mouth</hi> to give a right Sentence; otherwiſe the <hi>Jury</hi> is impannel'd in vain, the <hi>Witneſſes</hi> give in their Evidence, and you <hi>hear</hi> but in vain: Nay a Magi<g ref="char:EOLhyphen"/>ſtrate, who is inquiſitive where the Equity lies, but corrupt in paſſing ſentence, acts like Herod, who <note n="i" place="margin">Ma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> di<g ref="char:EOLhyphen"/>ligently enquired, where <hi>Jeſus</hi> the <hi>King</hi> of the Jews was, that he might come and <hi>worſhip</hi> him; when in<g ref="char:EOLhyphen"/>deed his intent was only to deſtroy him. And ſo much for the affirmative part of the Charge.</p>
+            <p>2ly. In the <hi>Negative</hi> part of it there are two things forbidden:</p>
+            <p n="1">1. <hi>You ſhall not reſpect Perſons.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> tranſlated by the <hi>Septuagint</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and in <hi>Latine</hi> may be rendred <hi>Non agnoſcetis faciem,</hi> you ſhall not <hi>judge</hi> according to the outward <hi>quality, ſtate</hi> and <hi>condition</hi> of men; whether they be rich or poor, your friends or your enemies, you ſhall not at all re<g ref="char:EOLhyphen"/>ſpect the <hi>qualities</hi> of the perſons, but only the <hi>me<g ref="char:EOLhyphen"/>rits</hi> of the Cauſe. As for Example; There are, ſuppoſe, two Priſoners at the Barr indicted for Trea<g ref="char:EOLhyphen"/>ſon, Murder, or the like; they both upon good evi<g ref="char:EOLhyphen"/>dence
+<pb n="14" facs="tcp:55552:11"/> appear guilty; one man has no <hi>Perſons,</hi> no <hi>Faces</hi> to appear for him, and ſo Judgment paſſes, that he ſhall die: The other appears under many <hi>Faces,</hi> the face of a <hi>Kinſman,</hi> of an <hi>Honourable,</hi> Learned, or Rich man, or great Friend; and the Conſideration of this prompts the Magiſtrate to Spare, when he ſhould Smite; this is to <hi>acknowledge Faces,</hi> or Reſpect <hi>perſons</hi> in Judgment; quite contrary to that of <hi>Levit.</hi> 19. 15. (which is a full explication of this part of my Text) <hi>Thou ſhalt not reſpect the perſon of the Poor, nor honour the perſon of the Mighty.</hi> And this is to become like the <hi>Great</hi> Judge of all, who thus expreſſeth himſelf, <hi>Rev.</hi> 22. 12. <hi>My reward is with me</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to give every man according as his work ſhall be.</hi> The Ballance weighes the <hi>Gold, Silver,</hi> or <hi>Iron</hi> all alike; Nor ſhould <hi>Juſtice</hi> (who is therefore painted <hi>blind)</hi> know any difference between the <hi>Noble</hi> and the <hi>Baſe,</hi> but (as it is in my Text) ſhould <hi>hear the ſmall as well as the great.</hi>
+            </p>
+            <p n="2">2. <hi>You ſhall not be afraid of the face of man;</hi> which is the laſt duty of the good Magiſtrate in my Text. And certainly <hi>Courage</hi> in a <hi>Judge</hi> is ſometimes as requiſite as any other Qualification we have ſpoken of: For to what purpoſe does he <hi>Hear</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nderſtand,</hi> if he dare not determine aright? to what purpoſe is the <hi>ſword</hi>
+               <pb n="15" facs="tcp:55552:11"/> of Juſtice put into his hand, if he dare not turn the edge of it againſt Offenders? and why was every ſtep to <hi>Solomon's</hi> Throne ſupported with Lyons, but to teach <hi>Kings</hi> and <hi>Magiſtrates,</hi> that they ſhould be men of Courage and Reſolution?</p>
+            <p>As the Law is <hi>Mutus Magiſtratus,</hi> the <hi>dumb Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> i. e. cannot ſpeak, but by the <hi>Magiſtrates</hi> mouth; ſo the Magiſtrate muſt be <hi>Lex Loquens,</hi> the <hi>ſpeaking law,</hi> i. e. ought to ſpeak the very <hi>mind</hi> of the <hi>Law</hi> in every <hi>Caſe</hi> that cometh before him, how <hi>ſevere</hi> ſo<g ref="char:EOLhyphen"/>ever it way be againſt any (even the greateſt) Per<g ref="char:EOLhyphen"/>ſons concern'd: which he that dares not do, looks like a <hi>painted Iupiter</hi> with a <hi>Thunderbolt</hi> in his hand; his Arm ever up, but never ſtrikes. Law altogether unexecuted, is like a <hi>ſword</hi> by the ſide of the <hi>Magiſtrate,</hi> that dares not ſo much as peep out of the <hi>ſcabbard;</hi> partially executed, like a ſword but half or three quar<g ref="char:EOLhyphen"/>ters drawn; at beſt but like ſtriking with the ſcabbard, when it ſhould have been with the <hi>ſword.</hi> This (which is bad) is to <hi>bear the ſword in vain,</hi> and to no purpoſe, or (which is worſe) miſchievouſly and to ill purpoſe; ſuch fooliſh pity hath not only (as 'tis in our proverb) ſpoil'd a Citie, but endanger'd King and Kingdom; nay many Kingdoms together; whereof I wiſh we had not too much Experience, in the ſo much ſuffer'd
+<pb n="16" facs="tcp:55552:12"/> (and thereby even encourag'd) inſolence of Popiſh Recuſants; who as they lately were, ſo we may well preſume they ſtill are, <hi>deſigning</hi> and practiceing (for while their * <hi>principles</hi> are unchang'd, their <hi>practiſes</hi> will <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Plut. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o.</note> be the ſame) againſt the <hi>Life</hi> of that <hi>ſacred Perſon,</hi> by whoſe unparalleld clemency, many of them hold their own; and had effectually once taken it away, had not <hi>divine providence,</hi> ſtill watching over it, ſub<g ref="char:EOLhyphen"/>ſtituted a Ram inſtead of that <hi>great ſacrifice</hi> to the <hi>Triple-Mitred Idol:</hi> A Generation they are, on whom <hi>Favour</hi> and <hi>Indulgence</hi> is as ill placed as <hi>complement</hi> on a <hi>Woolf,</hi> or <hi>courtſhip</hi> on a <hi>Tygre.</hi>
+            </p>
+            <p>Now this <hi>fear of the face of man,</hi> is a peice of <hi>pu<g ref="char:EOLhyphen"/>ſillanimity</hi> or <hi>cowardize</hi> in the heart of the <hi>Judge,</hi> a<g ref="char:EOLhyphen"/>riſing from the Conſideration of ſome <hi>Evils</hi> that are threatned or may befall him, in the due Execution of his Office. As thus; if I paſs a <hi>righteous ſentence</hi> in ſuch, or ſuch a Caſe, I may ſoon judge my ſelf out of my <hi>Place</hi> and <hi>Honour,</hi> out of all my <hi>Great</hi> Friends, my <hi>Libertie,</hi> my <hi>Estate,</hi> and perhaps endanger my <hi>Life</hi> it ſelf. And where <hi>Magiſtrates</hi> are ſo far byaſs'd as to pervert Judgment, I am apt to think, it is uſu<g ref="char:EOLhyphen"/>ally either the Reſpect, or the <hi>Fear of Men</hi> that over<g ref="char:EOLhyphen"/>rules them. But when we conſider it is but <hi>Man,</hi> that will be diſpleaſed, methinks there ſhould be no
+<pb n="17" facs="tcp:55552:12"/> force in the Argument. It is but <hi>man</hi> that threatens, but you have to do with the <hi>great God;</hi> and <note n="*" place="margin">Iſ. 51. 12</note> 
+               <hi>who art thou, that art afraid of a man that ſhall die, and of the ſon of man, that ſhall be made as graſs; and forgetteſt the Lord thy maker?</hi> For tho man may threaten, yet without God he cannot execute; <note n="k" place="margin">Dan. 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Nebuchadnezar's</hi> Furnace cannot burn, nor <note n="l" place="margin">Dan. 6<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Darius</hi> his Lyons devoure without Divine permiſſion; and <note n="m" place="margin">1 King <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Jeroboam's</hi> hand ſhrivels up, when he would offer violence to the man of God.</p>
+            <p>Now the <hi>Reaſon</hi> both of the <hi>Affirmative</hi> and <hi>Nega<g ref="char:EOLhyphen"/>tive</hi> Duties follows in the laſt words; <hi>For the judg<g ref="char:EOLhyphen"/>ment is God's:</hi> The conſideration of which will give edge to the courage of the <hi>Righteous</hi> Judge, and make him as bold as a <hi>Lyon.</hi> I am (ſays he) God's <hi>Vice<g ref="char:EOLhyphen"/>gerent,</hi> his mouth to paſs that Sentence which he him<g ref="char:EOLhyphen"/>ſelf would have paſſed; and to what purpoſe has he ſtyl'd me a <hi>God</hi> after his own name, but becauſe as ſuch I ſhould do juſtice? And ſhall I be a <hi>Judas</hi> in the place, or a <hi>Pilate</hi> on the Bench of God? The Judgement is God's, and ſhall I for Fear or Reſpect of men bow it according to their corrupt Will and Pleaſure? ſhall I (as much as in me lies) make the God of Truth a Lyer, an Accepter of Perſons, an Op<g ref="char:EOLhyphen"/>preſſor, a Condemner of the Juſt, and an Abſolver
+<pb n="18" facs="tcp:55552:13"/> of the wicked, repreſent the Judge of all the earth as any way not doing Right? No, God forbid; I muſt not, I dare not but give <hi>Righteous</hi> ſentence, <hi>for the judg<g ref="char:EOLhyphen"/>ment is God's:</hi> tis his, and he will defend me in every <hi>Righteous</hi> Judgment; and therefore I neither value the Envy or Reproaches of thoſe that are below, nor the Frowns and Menaces of thoſe that are above me. <hi>The judgment is God's</hi> i. e. He notes and obſerves all that is done, and will call over the <hi>judgment</hi> again if it be not <hi>Righteous.</hi> Such a time <hi>Barabbas,</hi> a <hi>Rogue,</hi> a <hi>murtherer</hi> was <hi>abſolv'd,</hi> and <hi>Chriſt crucifyed</hi> by <hi>Pilate;</hi> Such a time <hi>Jezabel</hi> took away <hi>Naboth's</hi> life, that ſhe might have his <hi>Vineyard;</hi> So many Traytors <hi>acquit<g ref="char:EOLhyphen"/>ted</hi> at another time, ſo many <hi>ſtrangers</hi> and widows oppreſſed in their cauſe, and (with Reverence be it ſpoken) God in his own ſeat baffled to his face, and ſometimes Friends, nay ſometimes Enemies pre<g ref="char:EOLhyphen"/>ferr'd before him. But however remember this, the <hi>Caſe</hi> will one day come to another hearing; <hi>For the judgment is God's.</hi>
+            </p>
+            <p>And now, <hi>my Lord,</hi> what has been ſpoken upon this ſubject, having had no leſs of <hi>practice,</hi> then Do<g ref="char:EOLhyphen"/>ctrine in it; I ſhall not expoſe my ſelf to your <hi>judi<g ref="char:EOLhyphen"/>cial</hi> cenſure for an <hi>Action</hi> of <hi>Treſpaſs</hi> upon your <hi>time</hi>
+               <pb n="19" facs="tcp:55552:13"/> (if not your <hi>patience</hi> alſo) in any farther <hi>diſtinct</hi> and <hi>particular</hi> application. Nor yet was, what in that more <hi>general</hi> way, hath been already ſaid, intended to <hi>inſtruct</hi> you in, but only <hi>mind</hi> you of, and <hi>move</hi> you to your before well known Duty; which if it may not be done, I am yet to learn the uſe of an <hi>Aſſiſe Sermon.</hi> In that ſenſe therefore your <hi>Lordſhip's</hi> Candor hath I doubt not all along underſtood me.</p>
+            <p>But I hope I as little <hi>need,</hi> as <hi>love</hi> Apologie. For though ſome may perhaps think I have us'd more <hi>liberty</hi> than becometh ſo <hi>young</hi> a man, with your ſo great <hi>Dignity</hi> of Office, and no leſs <hi>Gravity</hi> of <hi>Wiſdom,</hi> for an agreeable mannagement, and diſcharge of it; yet would they withall conſider me as a <hi>minister</hi> of <hi>Ieſus Christ,</hi> and one who deſireth to be found faith<g ref="char:EOLhyphen"/>full to him, they might in my <hi>Text,</hi> and thoſe other Scriptures on this ſolemn occaſion made uſe of, find <hi>Gravity</hi> enough unleſſen'd by any Levity of mine, to excuſe my Boldneſs, were it needful.</p>
+            <p>Tis true, <hi>my Lord,</hi> you are upon the <hi>Bench,</hi> in the ſtead of <hi>God</hi> to Us; and it is no leſs true, we are in the <hi>Pulpit,</hi> in the ſtead of <hi>Chriſt</hi> to you: And there<g ref="char:EOLhyphen"/>fore as being a <hi>minister</hi> of <hi>Christ,</hi> I beſeech you in his <hi>ſtead,</hi> that you would take this <hi>Charge</hi> of <hi>Moſes</hi> home to your Soul; that you would with Diligence and
+<pb n="20" facs="tcp:55552:14"/> Patience hear the Cauſes between your Brethren; and when upon hearing and due Examination, you come rightly to underſtand them, that you would <hi>judge righteouſly between every man and his Brother, and the ſtranger that is with him; not reſpecting Perſons in judg<g ref="char:EOLhyphen"/>ment, not fearing the face of man</hi> how <hi>great</hi> ſoever, as conſidering there is a <hi>greater</hi> above him, <hi>who is with you in the judgment,</hi> and to whom you muſt one day be accountable; <hi>For the judgment is God's.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
